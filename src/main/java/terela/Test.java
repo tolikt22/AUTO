@@ -19,7 +19,7 @@ public class Test {
 //            Bus bus = busDAO.getBusById(1L);
 //            System.out.println(bus);
 
-        // add Buss
+        // add Buss3
         Bus busForAdd = new Bus();
         busForAdd.setNumber(433);
         busDAO.addBus(busForAdd);
